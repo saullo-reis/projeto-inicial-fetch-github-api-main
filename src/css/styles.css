@@ -166,6 +166,14 @@ main {
   justify-content: center;
 }
 
+.container .profile-data .repositories ul li .emote{
+  margin:5px;
+  padding:5px;
+  background-color: blueviolet;
+  border-radius: 3px;
+
+}
+
 .container .profile-data .repositories ul li a{
   padding: 20px;
   border: 1px solid grey;  
